@@ -50,3 +50,12 @@ footer {
   padding-top: 20px;
   border-top: 1px solid #ccc;
 }
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 15px auto;
+  border: 2px solid #0077cc;
+}
