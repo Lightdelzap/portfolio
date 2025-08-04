@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function startEmojiRain() {
-  const emojis = ["i love you"];
+  const emojis = ["🎉", "💻", "🌟", "😎", "⚡", "🚀"];
   const count = 30;
 
   for (let i = 0; i < count; i++) {
@@ -26,5 +26,6 @@ function startEmojiRain() {
     }, 2000);
   }
 }
+
 
 
